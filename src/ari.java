@@ -25,5 +25,7 @@ public class ari {
             System.out.println();
         }
 
+
+
     }
 }
